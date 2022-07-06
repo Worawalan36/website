@@ -43,3 +43,9 @@ headname2
   height: 320px;
   padding: auto;
 }
+
+.maps
+{
+  border: 1px solid rgb(255, 201, 201);
+  height: 360px;
+}
