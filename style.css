@@ -10,14 +10,14 @@ body {
     background-color: black;
     color: white;
     height: 70px;
-    padding: 5px;
+    padding: auto;
   }
   
 footer {
     background-color: black;
     color: white;
     height: 50px;
-    padding: 5px;
+    padding: auto;
     text-align: center;
 }
 .mainpage
