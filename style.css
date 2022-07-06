@@ -49,3 +49,9 @@ headname2
   border: 1px solid rgb(255, 201, 201);
   height: 360px;
 }
+
+.Top10
+{
+  background-color: white;
+  padding: 10px;
+}
