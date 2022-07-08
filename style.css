@@ -55,3 +55,8 @@ headname2
   background-color: white;
   padding: 10px;
 }
+
+.img10{
+  width: 10px;
+  border-radius: 10px;
+}
