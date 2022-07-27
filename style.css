@@ -65,3 +65,15 @@ headname2
   background-color: rgb(255, 233, 239);
   height: 40px;
 }
+
+.topmenu ul{
+  list-style-type: disc;
+  margin: auto;
+  display: flex;
+  justify-content: left;
+}
+
+.topmenu li{
+  float: right;
+  padding: 10px 40px;
+}
